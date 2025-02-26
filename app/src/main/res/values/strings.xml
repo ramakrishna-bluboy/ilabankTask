@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ilabankTask</string>
+    <string name="hint_search">Search</string>
+    <string name="movie_poster">movie poster</string>
+</resources>
