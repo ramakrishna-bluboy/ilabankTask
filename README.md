@@ -24,3 +24,7 @@ This Android app displays a **movie list** with a **carousel-based category sele
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-repo-url.git
+
+## Demo video of APP
+https://1drv.ms/v/c/04544d5cb8b62f7b/EeWXOVMv2sFMrptvBaxnWnoBv8Vbr9K0wNAoJtRjis6ohw
+
